@@ -130,7 +130,7 @@
         transform: rotate(0);
     }
     90% {
-        transform: rotate(315deg);
+        transform: rotate(280deg);
     }
     100% {
         transform: rotate(0);
